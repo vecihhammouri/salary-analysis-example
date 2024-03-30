@@ -1,6 +1,13 @@
 # salary-analysis-example
 It is a sample study in which employee data in an Excel file is analyzed for salaries by department and position.
 
+
+
+<img width="1728" alt="Screenshot 2024-03-30 at 22 21 30" src="https://github.com/vecihhammouri/salary-analysis-example/assets/64661853/720a5411-3ba3-4756-865c-c82be3172572">
+
+
+
+
 <b>Used Libraries:</b><br><br>
 -Numpy<br>
 -Pandas<br>
